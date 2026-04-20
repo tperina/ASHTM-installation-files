@@ -15,6 +15,6 @@ contracted RTI International under contract number 68HERC21D0004/68HERC22F0031. 
 user interface (GUI) was designed to enable users to input data, generate model input files, run the model
 executable, read output files, display results, and access previously saved input and output files.
 
-Installation files are also hosted on the Clu-In website here: https://www.clu-in.org/conf/tio/ASHTM/
+Installation files are also hosted on the Clu-In website at: https://www.clu-in.org/conf/tio/ASHTM/
 
 The zipped installation file was split into 10 files for uploading to GitHub dues to size.
