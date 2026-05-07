@@ -17,3 +17,8 @@ executable, read output files, display results, and access previously saved inpu
 Installation files are also hosted on the Clu-In website at: https://www.clu-in.org/conf/tio/ASHTM/
 
 The zipped installation file was split into 10 files for uploading to GitHub dues to size.
+
+The two reports uploaded here are also available on EPA's website for the Stringfellow Superfund Site:
+Analytical Solute Transport Model Development Report, 2022
+Tracer Test Report Stringfellow Acid Pits Superfund Site, 2023
+
